@@ -30,4 +30,4 @@
    - บันทึกไฟล์ `.env`
 
 By setting these environment variables, you'll ensure the application runs securely and properly configured. Always keep the `.env` file out of version control by adding it to your `.gitignore` file.
-- โดยการตั้งค่าตัวแปรสภาพแวดล้อม, คุณจะมั่นใจได้ว่าแอปพลิเคชันจะทำงานได้อย่างปลอดภัยและถูกตั้งค่าอย่างเหมาะสม ควรเก็บไฟล์ `.env` ไว้นอกการควบคุมเวอร์ชันโดยเพิ่มลงในไฟล์ `.gitignore`
+- โดยการตั้งค่าตัวแปรสภาพแวดล้อม, คุณจะมั่นใจได้ว่าแอปพลิเคชันจะทำงานได้อย่างปลอดภัยและถูกตั้งค่าอย่างเหมาะสม ควรเก็บไฟล์ `.env` ไว้นอกการควบคุมเวอร์ชันโดยเพิ่มลงในไฟล์ `.gitignore`# encryption_suppanit
